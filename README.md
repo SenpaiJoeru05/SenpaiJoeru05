@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Joel Rayton Banner" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Joel Rayton</h1>
 <h3 align="center">A Passionate Full Stack Developer & Builder from the Philippines 🇵🇭</h3>
 
