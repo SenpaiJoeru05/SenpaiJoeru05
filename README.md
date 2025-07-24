@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=senpaijoeru05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=senpaijoeru05&label=Profile%20Views&color=00CED1&style=flat" alt="Profile Views" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Joel Rayton</h1>
@@ -29,24 +29,29 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
 ### 🛠️ Backend
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### 🗄️ Database
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### ⚙️ Tools & Others
 <p>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
 ---
@@ -63,21 +68,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senpaijoeru05&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Joel's GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senpaijoeru05&theme=radical&hide_border=true" alt="Joel's GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=senpaijoeru05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Joel's GitHub Stats" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=senpaijoeru05&theme=tokyonight&hide_border=true" width="48%" alt="Joel's GitHub Streak" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=senpaijoeru05&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Joel's Trophies" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=senpaijoeru05&theme=onedark&no-frame=true&margin-w=15&margin-h=15" width="90%" alt="Joel's Trophies" />
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=senpaijoeru05&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&point=61dafb" alt="Joel's Activity Graph" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=senpaijoeru05&bg_color=0d1117&color=00CED1&line=00CED1&point=FFFFFF&area=true&hide_border=true" width="90%" alt="Joel's Contribution Graph" />
+
+</div>
 
 ---
 
