@@ -92,8 +92,10 @@
 
 ---
 
-<div style="border: 2px solid #00CED1; border-radius: 10px; padding: 20px; margin: 20px auto; max-width: 600px; text-align: center; background-color: #0d1117;">
-  <p style="font-style: italic; color: #00CED1; font-size: 1.2em;">“Strive for progress, not perfection.”</p>
+<div style="background-color: #1a2525; border: 3px solid #00CED1; border-radius: 15px; padding: 25px; margin: 30px auto; max-width: 700px; text-align: center; box-shadow: 0 4px 8px rgba(0, 206, 209, 0.3);">
+  <blockquote style="font-style: italic; color: #00CED1; font-size: 1.5em; margin: 0; padding: 0;">
+    “Strive for progress, not perfection.”
+  </blockquote>
 </div>
 
 ⭐ If you find my projects helpful, consider giving them a star to support my journey!
