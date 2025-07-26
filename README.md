@@ -1,101 +1,122 @@
 <p align="center">
-  <img src="banner.png" alt="Joel Rayton Banner" width="100%" />
+  <img src="banner.png" alt="Joel Rayton Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 206, 209, 0.2);" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=senpaijoeru05&label=Profile%20Views&color=00CED1&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=senpaijoeru05&label=Profile%20Views&color=00CED1&style=flat-square" alt="Profile Views" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Joel Rayton</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Builder</h3>
+<h1 align="center" style="font-family: 'Segoe UI', sans-serif; color: #ffffff; font-size: 2.5em; font-weight: 700; margin-bottom: 0;">Hi 👋, I'm Joel Rayton</h1>
+<h3 align="center" style="font-family: 'Segoe UI', sans-serif; color: #00CED1; font-size: 1.5em; font-weight: 400;">Software Engineer | Full Stack Developer | Builder</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 I love building **practical, meaningful projects** that help people.
-- 🌱 Currently enhancing skills in **Full-Stack Development and Mobile Development.**
-- 🔭 Always looking for opportunities to learn and grow.
-- 👀 Open to **Junior Developer, Associate Software Engineer, or Freelance Opportunities.**
-- ✉️ Reach me at **joelrayton.dev@gmail.com**
+<div style="background: #0d1117; border-radius: 10px; padding: 20px; margin: 20px 0; border: 1px solid #2a3b47;">
+  <p style="font-family: 'Segoe UI', sans-serif; color: #c9d1d9; line-height: 1.6;">
+    - 💻 Passionate about building <strong>practical, impactful projects</strong> that solve real problems.<br>
+    - 🌱 Leveling up in <strong>Full-Stack and Mobile Development</strong>.<br>
+    - 🔭 Always exploring new opportunities to learn and innovate.<br>
+    - 👀 Seeking <strong>Junior Developer, Associate Software Engineer, or Freelance roles</strong>.<br>
+    - ✉️ Connect with me at <a href="mailto:joelrayton.dev@gmail.com" style="color: #00CED1; text-decoration: none;"><strong>joelrayton.dev@gmail.com</strong></a>
+  </p>
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
+<div style="background: #0d1117; border-radius: 10px; padding: 20px; margin: 20px 0; border: 1px solid #2a3b47;">
+  <h3 style="font-family: 'Segoe UI', sans-serif; color: #ffffff; font-size: 1.8em; margin-top: 0;">🚀 Frontend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  </p>
 
-### 🛠️ Backend
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+  <h3 style="font-family: 'Segoe UI', sans-serif; color: #ffffff; font-size: 1.8em;">🛠️ Backend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  </p>
 
-### 🗄️ Database
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+  <h3 style="font-family: 'Segoe UI', sans-serif; color: #ffffff; font-size: 1.8em;">🗄️ Database</h3>
+  <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  </p>
 
-### ⚙️ Tools & Others
-<p>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-</p>
+  <h3 style="font-family: 'Segoe UI', sans-serif; color: #ffffff; font-size: 1.8em;">⚙️ Tools & Others</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+  </p>
+</div>
 
 ---
 
 ## ✨ Featured Projects
 
-| 🚀 Project | 📄 Description |
-|--------|-------------|
-| [**PSA-HRIS**](https://github.com/SenpaiJoeru05/PSA-HRIS) | A **web-based HRIS system** for automating HR workflows using Laravel & PostgreSQL. |
-| [**Vision.AI**](https://github.com/SenpaiJoeru05/Vision.AI) | An **Android app for the visually impaired** with YOLOv8 for object and currency detection. |
-| [**Portfolio Website**](https://github.com/SenpaiJoeru05/My-Portfolio) | Showcasing my projects, journey, and skills in one clean website. |
+<div style="background: #0d1117; border-radius: 10px; padding: 20px; margin: 20px 0; border: 1px solid #2a3b47;">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <th style="font-family: 'Segoe UI', sans-serif; color: #ffffff; text-align: left; padding: 10px;">🚀 Project</th>
+      <th style="font-family: 'Segoe UI', sans-serif; color: #ffffff; text-align: left; padding: 10px;">📄 Description</th>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"><a href="https://github.com/SenpaiJoeru05/PSA-HRIS" style="color: #00CED1; text-decoration: none;"><strong>PSA-HRIS</strong></a></td>
+      <td style="padding: 10px; color: #c9d1d9;">A <strong>web-based HRIS system</strong> for automating HR workflows using Laravel & PostgreSQL.</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"><a href="https://github.com/SenpaiJoeru05/Vision.AI" style="color: #00CED1; text-decoration: none;"><strong>Vision.AI</strong></a></td>
+      <td style="padding: 10px; color: #c9d1d9;">An <strong>Android app for the visually impaired</strong> with YOLOv8 for object and currency detection.</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"><a href="https://github.com/SenpaiJoeru05/My-Portfolio" style="color: #00CED1; text-decoration: none;"><strong>Portfolio Website</strong></a></td>
+      <td style="padding: 10px; color: #c9d1d9;">Showcasing my projects, journey, and skills in one clean website.</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=senpaijoeru05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Joel's GitHub Stats" style="margin: 10px;" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senpaijoeru05&theme=tokyonight&hide_border=true" width="48%" alt="Joel's GitHub Streak" style="margin: 10px;" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=senpaijoeru05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Joel's GitHub Stats" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=senpaijoeru05&theme=tokyonight&hide_border=true" width="48%" alt="Joel's GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=senpaijoeru05&theme=onedark&no-frame=true&margin-w=15&margin-h=15" width="90%" alt="Joel's Trophies" style="margin: 10px;" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=senpaijoeru05&theme=onedark&no-frame=true&margin-w=15&margin-h=15" width="90%" alt="Joel's Trophies" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=senpaijoeru05&bg_color=0d1117&color=00CED1&line=00CED1&point=FFFFFF&area=true&hide_border=true" width="90%" alt="Joel's Contribution Graph" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senpaijoeru05&bg_color=0d1117&color=00CED1&line=00CED1&point=FFFFFF&area=true&hide_border=true" width="90%" alt="Joel's Contribution Graph" style="margin: 10px;" />
 </div>
 
 ---
 
 ## 🤝 Connect with Me
 
-<p align="center">
-  <a href="mailto:joelrayton.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-  <a href="https://www.linkedin.com/in/joel-rayton"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://senpaijoeru05.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/></a>
-  <a href="https://github.com/senpaijoeru05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+<p align="center" style="margin: 20px 0;">
+  <a href="mailto:joelrayton.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" style="margin: 5px;"/></a>
+  <a href="https://www.linkedin.com/in/joel-rayton"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin: 5px;"/></a>
+  <a href="https://senpaijoeru05.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-12100E?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio Badge" style="margin: 5px;"/></a>
+  <a href="https://github.com/senpaijoeru05"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge" style="margin: 5px;"/></a>
 </p>
 
 ---
 
-<div style="background-color: #1a2525; border: 3px solid #00CED1; border-radius: 15px; padding: 25px; margin: 30px auto; max-width: 700px; text-align: center; box-shadow: 0 4px 8px rgba(0, 206, 209, 0.3);">
-  <blockquote style="font-style: italic; color: #00CED1; font-size: 1.5em; margin: 0; padding: 0;">
+<div style="background: linear-gradient(135deg, #00CED1 0%, #1a2525 100%); border-radius: 15px; padding: 30px; margin: 30px auto; max-width: 700px; text-align: center; box-shadow: 0 6px 12px rgba(0, 206, 209, 0.3); transition: transform 0.3s ease;">
+  <blockquote style="font-family: 'Segoe UI', sans-serif; font-style: italic; color: #ffffff; font-size: 1.6em; margin: 0; padding: 0; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);">
     “Strive for progress, not perfection.”
   </blockquote>
 </div>
 
-⭐ If you find my projects helpful, consider giving them a star to support my journey!
+<p align="center" style="font-family: 'Segoe UI', sans-serif; color: #c9d1d9;">
+  ⭐ If you find my projects helpful, consider giving them a star to support my journey!
+</p>
