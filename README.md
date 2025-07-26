@@ -14,9 +14,9 @@
 ## 🚀 About Me
 
 - 💻 I love building **practical, meaningful projects** that help people.
-- 🌱 Currently enhancing skills in **Laravel, PostgreSQL, React, Javascript, and Mobile Development.**
+- 🌱 Currently enhancing skills in **Full-Stack Development and Mobile Development.**
 - 🔭 Always looking for opportunities to learn and grow.
-- 👀 Open to **Junior Developer, Associate, or Freelance Opportunities.**
+- 👀 Open to **Junior Developer, Associate Software Engineer, or Freelance Opportunities.**
 - ✉️ Reach me at **joelrayton.dev@gmail.com**
 
 ---
