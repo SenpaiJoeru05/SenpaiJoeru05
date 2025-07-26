@@ -92,6 +92,8 @@
 
 ---
 
-> **“Strive for progress, not perfection.”**
+<div style="border: 2px solid #00CED1; border-radius: 10px; padding: 20px; margin: 20px auto; max-width: 600px; text-align: center; background-color: #0d1117;">
+  <p style="font-style: italic; color: #00CED1; font-size: 1.2em;">“Strive for progress, not perfection.”</p>
+</div>
 
 ⭐ If you find my projects helpful, consider giving them a star to support my journey!
