@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
 <div style="background: #0d1117; border-radius: 10px; padding: 20px; margin: 20px 0; border: 1px solid #2a3b47;">
   <h3 style="font-family: 'Segoe UI', sans-serif; color: #ffffff; font-size: 1.8em; margin-top: 0; margin-bottom: 15px;">🚀 Frontend</h3>
