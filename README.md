@@ -17,7 +17,7 @@
 - 🌱 Currently enhancing skills in **Full-Stack Development and Mobile Development.**
 - 🔭 Always looking for opportunities to learn and grow.
 - 👀 Open to **Junior Developer, Associate Software Engineer, or Freelance Opportunities.**
-- ✉️ Reach me at **joelrayton@gmail.com**
+- ✉️ Reach me at **joelrayton.dev@gmail.com**
 
 ---
 
