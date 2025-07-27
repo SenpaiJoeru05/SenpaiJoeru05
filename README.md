@@ -18,7 +18,7 @@
     - 💻 Passionate about building <strong>practical, impactful projects</strong> that solve real problems.<br>
     - 🌱 Leveling up in <strong>Full-Stack and Mobile Development</strong>.<br>
     - 🔭 Always exploring new opportunities to learn and innovate.<br>
-    - 👀 Seeking <strong>Junior Developer, Associate Software Engineer, or Freelance roles</strong>.<br>
+    - 👀 Seeking <strong>Jr. Developer, Associate Software Engineer, or Freelance roles</strong>.<br>
     - ✉️ Connect with me at <a href="mailto:joelrayton.dev@gmail.com" style="color: #00CED1; text-decoration: none;"><strong>joelrayton.dev@gmail.com</strong></a>
   </p>
 </div>
