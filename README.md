@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 About Me.
+## 🧑‍💻 About Me
 
 <div style="background: #0d1117; border-radius: 10px; padding: 20px; margin: 20px 0; border: 1px solid #2a3b47;">
   <p style="font-family: 'Segoe UI', sans-serif; color: #c9d1d9; line-height: 1.6;">
