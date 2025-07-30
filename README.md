@@ -107,7 +107,7 @@
 
 ---
 
-<div style="background: linear-gradient(135deg, #00CED1 0%, #1a2525 100%); border-radius: 15px; padding: 30px; margin: 30px auto; max-width: 700px; text-align: center; box-shadow: 0 6px 12px rgba(0, 206, 209, 0.3); transition: transform 0.3s ease;">
+<div align="center" style="background: linear-gradient(135deg, #00CED1 0%, #1a2525 100%); border-radius: 15px; padding: 30px; margin: 30px auto; max-width: 700px; text-align: center; box-shadow: 0 6px 12px rgba(0, 206, 209, 0.3); transition: transform 0.3s ease;">
   <blockquote style="font-family: 'Segoe UI', sans-serif; font-style: italic; color: #ffffff; font-size: 1.6em; margin: 0; padding: 0; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);">
     “Keep showing up. That’s how real growth happens.”
   </blockquote>
