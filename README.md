@@ -87,12 +87,15 @@
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=senpaijoeru05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Joel's GitHub Stats" style="margin: 10px;" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senpaijoeru05&theme=tokyonight&hide_border=true" width="48%" alt="Joel's GitHub Streak" style="margin: 10px;" />
+
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=senpaijoeru05&theme=tokyonight&hide_border=true" width="51%" alt="Joel's GitHub Streak" style="margin: 10px;" />
+
 
   <img src="https://github-profile-trophy.vercel.app/?username=senpaijoeru05&theme=onedark&no-frame=true&margin-w=15&margin-h=15" width="90%" alt="Joel's Trophies" style="margin: 10px;" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=senpaijoeru05&bg_color=0d1117&color=00CED1&line=00CED1&point=FFFFFF&area=true&hide_border=true" width="90%" alt="Joel's Contribution Graph" style="margin: 10px;" />
 </div>
+
 
 ---
 
