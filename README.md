@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center" style="font-family: 'Segoe UI', sans-serif; color: #ffffff; font-size: 2.5em; font-weight: 700; margin-bottom: 0;">Hi 👋, I'm Joel Rayton</h1>
-<h3 align="center" style="font-family: 'Segoe UI', sans-serif; color: #00CED1; font-size: 1.5em; font-weight: 400;">Software Engineer | Software Developer | Builder</h3>
+<h3 align="center" style="font-family: 'Segoe UI', sans-serif; color: #00CED1; font-size: 1.5em; font-weight: 400;">Software Engineer | Software Developer</h3>
 
 ---
 
