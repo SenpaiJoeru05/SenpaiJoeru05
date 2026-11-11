@@ -86,14 +86,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SenpaiJoeru05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <!-- Stats (new maintained fork) -->
+  <img src="https://github-stats-extended.vercel.app/api?username=SenpaiJoeru05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
   
-  <!-- Streak (working alternative) -->
+  <!-- Streak -->
   <img src="https://streak-stats.demolab.com/?user=SenpaiJoeru05&theme=tokyonight&hide_border=true" width="49%" />
   
-  <!-- Trophies (community mirror) -->
-  <img src="https://trophy.benkou.dev/?username=SenpaiJoeru05&theme=onedark&no-frame=true&margin-w=15&margin-h=15" width="100%" />
+  <!-- Trophies (working mirror) -->
+  <img src="https://github-trophies.devomb.com/?username=SenpaiJoeru05&theme=onedark&no-frame=true&margin-w=15&margin-h=15" width="100%" />
 </div>
 
 
